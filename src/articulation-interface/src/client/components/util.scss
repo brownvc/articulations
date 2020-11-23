@@ -1,0 +1,27 @@
+.overflow-scroll {
+    overflow-y: scroll;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.user-select-none {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.flex-basis-0 {
+    flex-basis: 0;
+}
+
+// This is used to emulate the look of disabled buttons when using the icon font.
+.color-button-secondary-disabled {
+    color: #6c757d;
+}
